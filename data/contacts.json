@@ -1,0 +1,14 @@
+{
+  "title": "Contacts",
+  "location": "Jakarta, Indonesia",
+  "socialMedias": {
+    "linkedin": "https://www.linkedin.com/in/griseldaas/",
+    "linkedinAriaLabel": "LinkedIn Profile",
+    "github": "https://github.com/grisheldas",
+    "githubAriaLabel": "GitHub Profile",
+    "instagram": "https://www.instagram.com/grisheldaas/",
+    "instagramAriaLabel": "Instagram Profile",
+    "email": "mailto:griseldaathallah@gmail.com",
+    "emailAriaLabel": "Email Address"
+  }
+}

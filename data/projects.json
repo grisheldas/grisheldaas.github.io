@@ -1,0 +1,22 @@
+{
+  "projectsTitle": "Projects",
+  "projectList": [
+    {
+      "imageLink": "/teatalk.svg",
+      "imageAlt": "Simple social media made with Next.js",
+      "projectLink": "/project/teatalk",
+      "title": "Teatalk",
+      "year": "2022",
+      "text": "A simple social media I made for my bootcamp semi-final project.",
+      "textDetail": "Teatalk is a social media where everyone can interact with each other. Made with simple CRUD where users can create and delete statuses, upload photos, edit profiles, etc. This is my first project using Next.js, and I found it very simple to use. This project was made as one of the graduation requirements for my bootcamp at Purwadhika Technology School."
+    },
+    {
+      "imageLink": "/healthymed.svg",
+      "imageAlt": "E-commerce prototype for healthcare made with Next.js",
+      "title": "Healthymed",
+      "projectLink": "/project/healthymed",
+      "year": "2022",
+      "text": "Online-based healthcare e-commerce, providing various healthcare products accessible by just tapping your smartphone from home."
+    }
+  ]
+}
