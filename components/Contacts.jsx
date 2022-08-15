@@ -23,7 +23,7 @@ function Contacts({ children }) {
   return (
     <div className="mx-5 mt-5 dark:text-indigo-200 text-gray-900 pb-5 lg:pb-10 lg:text-center">
       <div className="font-bold text-xl tracking-wide lg:text-3xl">
-        Let's meet
+        Lets meet
       </div>
 
       <div className="font-semibold mt-5 lg:text-lg">Griselda Athallah</div>

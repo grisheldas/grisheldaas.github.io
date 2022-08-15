@@ -8,7 +8,7 @@ function Profile() {
       >
         Hi,
         <br />
-        it's me Griselda.
+        its me Griselda.
       </div>
 
       <div className="mt-5 mb-5 lg:mb-10 lg:text-xl tracking-wide text-justify text-gray-900 dark:text-indigo-200">
@@ -20,6 +20,7 @@ function Profile() {
         href={"/resume.pdf"}
         download
         target="_blank"
+        rel="noreferrer"
         className="p-2 lg:p-3 text-sm rounded-md font-semibold dark:bg-indigo-200 bg-gray-900 
       dark:text-gray-900 text-indigo-200 hover:bg-gray-600 dark:hover:bg-indigo-400"
       >

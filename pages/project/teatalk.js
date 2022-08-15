@@ -20,7 +20,7 @@ function Teatalk() {
         <ProjectDetail />
         <div className="mx-6 border-t-2 my-7 lg:my-14 dark:border-indigo-200 border-gray-900" />
 
-        <Link href={"project/healthymed"}>
+        <Link href={"/project/healthymed"}>
           <div className="lg:text-xl dark:text-indigo-200 text-gray-900 flex items-center justify-end mx-6 pb-6">
             Next project: Healthymed
             <HiOutlineChevronRight className="text-lg ml-3" />
